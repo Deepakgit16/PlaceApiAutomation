@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-01T11:59:48 IST" name="Suite" finished-at="2026-11-01T11:59:52 IST" duration-ms="3971">
+    <groups>
+    </groups>
+    <test started-at="2026-11-01T11:59:48 IST" name="Test" finished-at="2026-11-01T11:59:52 IST" duration-ms="3971">
+      <class name="api.test.UserTests">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTests@4c12331b]" started-at="2026-11-01T11:59:48 IST" name="setupData" finished-at="2026-11-01T11:59:48 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests@4c12331b]" started-at="2026-11-01T11:59:48 IST" name="testPostUser" finished-at="2026-11-01T11:59:50 IST" duration-ms="2246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUserByPlaceID()[pri:2, instance:api.test.UserTests@4c12331b]" started-at="2026-11-01T11:59:50 IST" name="testGetUserByPlaceID" finished-at="2026-11-01T11:59:50 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByPlaceID -->
+        <test-method signature="testUpdateUserByPlaceID()[pri:3, instance:api.test.UserTests@4c12331b]" started-at="2026-11-01T11:59:50 IST" name="testUpdateUserByPlaceID" finished-at="2026-11-01T11:59:51 IST" duration-ms="835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUserByPlaceID -->
+        <test-method signature="testDeleteUserByPlaceID()[pri:4, instance:api.test.UserTests@4c12331b]" started-at="2026-11-01T11:59:51 IST" name="testDeleteUserByPlaceID" finished-at="2026-11-01T11:59:52 IST" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserByPlaceID -->
+      </class> <!-- api.test.UserTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
